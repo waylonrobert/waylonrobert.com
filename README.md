@@ -1,2 +1,2 @@
 # About
-More info soon.
+This is my personal site. It's also a playground of sorts to try out fancy and snazzy frontend technologies that allow me to break free from the strict PHP environment I use for work. So if things don't make sense, or are broken, don't worry :).
